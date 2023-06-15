@@ -1,0 +1,11 @@
+{
+    "todos":{
+        "user":"Hem Roy",
+        "date": "06-06-2021",
+        "tasks":[
+            {"name": "meet claire", "details": "Meet claire at new st. John around 5pm.", "iscomplete":"false"},
+            {"name": "Buy food", "details": "Buy veg foods for dinner from Thomas street.", "iscomplete":"false"},
+            {"name": "Office meet up", "details": "Meet up at Office with team at 1pm.", "iscomplete":"true"}
+        ]
+    }
+}
